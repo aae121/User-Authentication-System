@@ -1,0 +1,51 @@
+{
+    "users": [
+        {
+            "name": "Admin",
+            "email": "admin@gmail.com",
+            "gender": "Male",
+            "governorate": "AdminGov",
+            "password": "admin123",
+            "age": 30,
+            "national_id": "12345678901234",
+            "role": "admin"
+        },
+        {
+            "name": "Ahmed",
+            "email": "ahmed",
+            "gender": "Male",
+            "governorate": "Luxor",
+            "password": "010150",
+            "age": 22,
+            "national_id": "asdas",
+            "role": "user"
+        },
+        {
+            "name": "bassmala",
+            "email": "bassmala@gmail.com",
+            "password": "bassmala",
+            "national_id": "3040123454",
+            "age": "20",
+            "gender": "female",
+            "governorate": "giza"
+        },
+        {
+            "name": "malak",
+            "email": "malak@gmail.com",
+            "password": "123",
+            "national_id": "123456",
+            "age": "17",
+            "gender": "female",
+            "governorate": "cairo"
+        },
+        {
+            "name": "ali",
+            "email": "ali@gmail.com",
+            "password": "123",
+            "national_id": "3090840404949",
+            "age": "20",
+            "gender": "male",
+            "governorate": "cairo"
+        }
+    ]
+}
